@@ -1,0 +1,16 @@
+# Node
+node_modules/
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# Arduino/ESP32
+*.elf
+*.bin
+
+# OS
+.DS_Store
